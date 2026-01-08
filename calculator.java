@@ -1,4 +1,4 @@
-package com.mycompany.practical10_043;
+package com.mycompany.Calc;
 
 import javax.swing.*;
 import java.awt.*;
@@ -205,3 +205,4 @@ public class calculator extends JFrame implements ActionListener {
         new calculator();
     }
 }
+
